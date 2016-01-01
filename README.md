@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/ctlMtD3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/h6gPbvb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+In the beginning I implemented 3 text fields in the settings to allow users to input the percentages they want. I was able to store the 3 text fields percentages by using the defaults file but I was not able to implement these stored keys into the segmented controller, thus due to time constraint I was only able to allow the users to change the default tip percentages.
 
 ## License
 
